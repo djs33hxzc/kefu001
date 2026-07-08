@@ -5914,3 +5914,123 @@ Hibernate:
         system_settings ss1_0 
     where
         ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:57:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:57:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
