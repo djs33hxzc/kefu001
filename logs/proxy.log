@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/workspaces/kefu001/proxy_server.py", line 138, in <module>
+    with socketserver.TCPServer((HOST, PORT), ProxyHandler) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/home/codespace/.python/current/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
