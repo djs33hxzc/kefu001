@@ -12,4 +12,4 @@ jobs:
           server: ftpupload.net
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          server-dir: /htdocs/33hxzc.infinityfreeapp.com/muxiwl/
+          server-dir: /htdocs/hxzc33hxzc33.ct.ws/
