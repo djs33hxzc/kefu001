@@ -3394,3 +3394,2263 @@ Hibernate:
         system_settings ss1_0 
     where
         ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:29:07.609Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:29:07.612Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:30:07.603Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:30:07.611Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:31:07.659Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:31:07.664Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:32:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:32:07.603Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:33:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:33:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:34:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:34:07.602Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:35:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:35:07.602Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:36:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:36:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:37:07.602Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:37:07.616Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:38:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:38:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:39:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:39:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:40:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:40:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:41:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:41:07.605Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:42:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:42:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:43:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:43:07.599Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:44:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:44:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:45:07.602Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:45:07.608Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:46:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:46:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:47:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:47:07.600Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:48:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:48:07.599Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:49:07.617Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:49:07.643Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:50:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:50:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:51:07.597Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:51:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:52:07.598Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:52:07.601Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:53:07.662Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 blocked domains
+Hibernate: 
+    select
+        da1_0.id,
+        da1_0.access_count,
+        da1_0.blocked_by,
+        da1_0.blocked_time,
+        da1_0.domain,
+        da1_0.first_access_time,
+        da1_0.is_blocked,
+        da1_0.landing_file,
+        da1_0.last_access_time,
+        da1_0.remark 
+    from
+        domain_access da1_0
+2026-07-08T19:53:07.687Z  INFO 53549 --- [kefu-backend] [   scheduling-1] com.kefu.filter.DomainAccessFilter       : Loaded 0 landing pages
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
+Hibernate: 
+    select
+        ss1_0.id,
+        ss1_0.description,
+        ss1_0.setting_key,
+        ss1_0.setting_value 
+    from
+        system_settings ss1_0 
+    where
+        ss1_0.setting_key=?
