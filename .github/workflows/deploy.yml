@@ -1,0 +1,15 @@
+name: 自动部署到网站
+on:
+  push:
+    branches: [ main ]
+jobs:
+  ftp-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ftpupload.net
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          server-dir: /htdocs/33hxzc.infinityfreeapp.com/muxiwl/
