@@ -1,4 +1,4 @@
-name: 自动部署到网站
+name: FTP Deploy
 on:
   push:
     branches: [ main ]
@@ -6,10 +6,13 @@ jobs:
   ftp-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: FTP Upload
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
-          server: ftpupload.net
+          server: ftp.if0_42366132.infinityfree.com
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           server-dir: /htdocs/
+          local-dir: ./
